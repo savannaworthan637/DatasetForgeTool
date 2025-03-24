@@ -1,0 +1,23 @@
+
+---
+
+### **2. 33_PingStatusWatcher**  
+**Description:**  
+Monitors HTTP endpoints and logs uptime and response latency.
+
+#### **README.md**
+```markdown
+# PingStatusWatcher - API Availability Monitor
+
+PingStatusWatcher checks the responsiveness of URLs and logs the status codes and round-trip time.
+
+## Features
+- Multi-endpoint support  
+- Simple tabular output  
+- Timeout alert  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_PingStatusWatcher.git
+cd 33_PingStatusWatcher
+python monitor.py
