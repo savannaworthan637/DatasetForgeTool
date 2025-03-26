@@ -1,0 +1,23 @@
+
+---
+
+### **4. 33_LiveChartCanvas**  
+**Description:**  
+A real-time line chart generator for visualizing numeric data streams.
+
+#### **README.md**
+```markdown
+# LiveChartCanvas - Real-Time Data Plotter
+
+LiveChartCanvas creates animated graphs to monitor live metrics or simulated streams using Matplotlib.
+
+## Features
+- Live updating charts  
+- Adjustable axis scaling  
+- Works with API or sensor streams  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LiveChartCanvas.git
+cd 33_LiveChartCanvas
+python visualize.py
