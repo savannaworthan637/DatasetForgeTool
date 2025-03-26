@@ -1,0 +1,23 @@
+
+---
+
+### **3. 33_LogInsightScanner**  
+**Description:**  
+A CLI utility that detects frequently repeated errors or keywords in log files.
+
+#### **README.md**
+```markdown
+# LogInsightScanner - Log Pattern Identifier
+
+LogInsightScanner parses logs and extracts repeated lines, highlighting potential problems or noise.
+
+## Features
+- Frequency-based log summaries  
+- Error keyword filtering  
+- Works with any text-based logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LogInsightScanner.git
+cd 33_LogInsightScanner
+python analyze.py error.log
